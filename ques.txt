@@ -1,0 +1,50 @@
+What is the capital of France? : Paris
+Which planet is known as the Red Planet? : Mars
+What is the largest ocean on Earth? : Pacific Ocean
+Who wrote the play 'Hamlet'? : William Shakespeare
+What is the chemical formula for water? : H2O
+What is the hardest natural substance on Earth? : Diamond
+How many planets are in our Solar System? : 8
+Who painted the Mona Lisa? : Leonardo da Vinci
+What is the capital of Japan? : Tokyo
+What is the largest mammal in the world? : Blue Whale
+Who is credited with inventing the telephone? : Alexander Graham Bell
+What is the fastest land animal? : Cheetah
+How many days are in a leap year? : 366
+What is the tallest mountain in the world? : Mount Everest
+What is the currency of the United Kingdom? : Pound Sterling
+Which continent is the coldest? : Antarctica
+How many stars are on the flag of the United States? : 50
+What are the three primary colors of pigment? : Red, Blue, Yellow
+Which country has the largest land area? : Russia
+What is the smallest country in the world? : Vatican City
+At what temperature does water boil (Celsius)? : 100 degrees
+What is the chemical symbol for Gold? : Au
+What is the capital of Australia? : Canberra
+How many sides does a hexagon have? : 6
+What is the largest hot desert in the world? : Sahara Desert
+Who was the first person to walk on the Moon? : Neil Armstrong
+In which year did World War II end? : 1945
+What is the capital of Italy? : Rome
+How many chambers does the human heart have? : 4
+Which gas do plants absorb during photosynthesis? : Carbon Dioxide
+At what temperature does water freeze (Celsius)? : 0 degrees
+What is the capital of Spain? : Madrid
+Who wrote the Harry Potter series? : J.K. Rowling
+What is generally considered the longest river in the world? : Nile River
+Is a bat a bird or a mammal? : Mammal
+What is the square root of 64? : 8
+What is the capital of Germany? : Berlin
+What is the chemical symbol for Iron? : Fe
+How many continents are there on Earth? : 7
+How many bones are in an adult human body? : 206
+Who was the first President of the United States? : George Washington
+What is the capital of Canada? : Ottawa
+What is the currency of Japan? : Yen
+What is the largest internal organ in the human body? : Liver
+Who is said to have discovered gravity when an apple fell? : Isaac Newton
+What is the capital of China? : Beijing
+Which animal is known as the 'King of the Jungle'? : Lion
+What is the main gas found in the air we breathe? : Nitrogen
+Which instrument is used to measure temperature? : Thermometer
+How many legs does a spider have? 
